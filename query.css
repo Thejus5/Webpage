@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1200px){
+  .container{
+    max-width: 998;
+  }
+}
+
+@media only screen and (max-width: 768){
+
+  .leftSection{
+    width: 100%;
+    float: none;
+  }
+  .middleSection{
+    float: none;
+  }
+
+}
+
+
+
+/* 
+@media only screen and (max-width: 480){
+
+} */
