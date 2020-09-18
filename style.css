@@ -76,7 +76,7 @@ nav ul{ list-style: none; }
 
 nav ul li{
   padding: 20px;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #fff;
 }
 
 nav ul li a{ 
@@ -109,7 +109,7 @@ nav ul li a:hover{
 .contentArea{ 
   /* float: left; */
   width: 60%;
-  text-align: justify;
+  text-align: left;
   padding: 10px;
 }
 
@@ -138,13 +138,13 @@ table{
 th{
   background-color: #6aa1b2;
   padding: 5px 8px;
-  color: white;
+  color: #fff;
 }
 
 td{
   background-color: #95e1f9;
   padding: 5px 8px;
-  color: white;
+  color: #fff;
 }
 
 td:last-child{ text-align: center; }
